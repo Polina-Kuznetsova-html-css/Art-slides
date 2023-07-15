@@ -1,2 +1,2 @@
 # Art-slides
-JavaScript
+Картины художников ввиде слайдера на JavaScript
